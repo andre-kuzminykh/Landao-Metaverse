@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Introduction
+# Install Telegram
 
