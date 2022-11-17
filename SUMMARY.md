@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Team](README.md)
+* [Welcome](README.md)
 
-## About
+## Start
 
-* [Blog](about/blog.md)
-* [Hiring](about/hiring.md)
-* [Contacts](about/contacts.md)
+* [Theory of Happiness](start/theory-of-happiness.md)
+* [Metaverse Roadmap](start/metaverse-roadmap.md)
+* [NFT Collection](start/nft-collection.md)
