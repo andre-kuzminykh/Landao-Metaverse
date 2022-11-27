@@ -1,7 +1,5 @@
 ---
-description: >-
-  Decentralized ventures for making people happy in Extended Reality (XR) on
-  TON-blockchain
+description: Decentralized ventures for making people happy in Extended Reality (XR)
 ---
 
 # Landao Metaverse
