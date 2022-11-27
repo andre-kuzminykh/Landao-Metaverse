@@ -8,7 +8,7 @@
 
 **Chief Execution Officer (CEO)**
 
-Andre Kuzminykh
+Andre Kuzminykh - Studio strategy & Key decisions
 
 
 
@@ -16,23 +16,23 @@ Andre Kuzminykh
 
 **Chief Technology Officer (CTO)**
 
-Tony Sapunov
-
-****
-
-****
-
-**Chief Finance Officer (CFO)**
-
-Vadim Nescheret
+Tony Sapunov - dApp development & Service support
 
 ****
 
 ****![](<../.gitbook/assets/image (3).png>)****
 
+**Chief Finance Officer (CFO)**
+
+Vadim Nescheret - Invest plan & Finance operations
+
+****
+
+****![](<../.gitbook/assets/image (3) (2).png>)****
+
 **Chief Product Officer (CPO)**
 
-Albert Ryzhenkov
+Albert Ryzhenkov - Product vision & Product metrics
 
 ****
 
@@ -40,7 +40,7 @@ Albert Ryzhenkov
 
 **Chief Operation Officer (COO)**
 
-Timur Gilmutdinov
+Timur Gilmutdinov - Business plan & Legal regulations
 
 ****
 
@@ -48,7 +48,7 @@ Timur Gilmutdinov
 
 **Chief Marketing Officer (CMO)**
 
-Anna Balycheva
+Anna Balycheva - Marketing strategy & Customer journey&#x20;
 
 
 
@@ -56,5 +56,5 @@ Anna Balycheva
 
 **Chief Creative Officer (CCO)**
 
-Anastasia Butenkova
+Anastasia Butenkova - User experience & Customer experience
 
