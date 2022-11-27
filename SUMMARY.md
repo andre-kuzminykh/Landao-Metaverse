@@ -22,6 +22,6 @@
 
 ## Support
 
+* [Settings](support/settings.md)
 * [FAQ](support/faq.md)
 * [Contact us](support/contact-us.md)
-* [Settings](support/settings.md)
