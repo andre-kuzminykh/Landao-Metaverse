@@ -1,8 +1,6 @@
 # Landao Studio
 
-## **We create dApps for work, love & communications                               in Mixed, Augmented & Virtual Realities**
-
-****
+**We create dApps for work, love & communications in Mixed, Augmented & Virtual Realities**
 
 ****
 
