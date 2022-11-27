@@ -8,10 +8,10 @@
 
 ## Wave MR
 
-* [Authorization](start/nft-collection.md)
-  * [Observer mode](authorization/observer-mode.md)
-  * [Telegram connection](authorization/telegram-connection.md)
-  * [Tonkeeper connection](authorization/tonkeeper-connection.md)
+* [Getting started](wave-mr/getting-started/README.md)
+  * [Observer mode](wave-mr/getting-started/observer-mode.md)
+  * [Telegram connection](wave-mr/getting-started/telegram-connection.md)
+  * [Tonkeeper connection](wave-mr/getting-started/tonkeeper-connection.md)
 * [Avatar](wave-mr/avatar/README.md)
   * [Your profile](avatar/your-profile.md)
   * [Guest profile](avatar/guest-profile.md)
