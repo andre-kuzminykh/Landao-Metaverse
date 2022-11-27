@@ -1,5 +1,5 @@
 ---
-description: Theory of Happiness
+description: The theory of Happiness
 ---
 
 # Landao Philosophy
