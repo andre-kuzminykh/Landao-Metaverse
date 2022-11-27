@@ -3,19 +3,19 @@
 ## Welcome
 
 * [Theory of Happiness](README.md)
-* [Landao Metaverse](welcome/landao-metaverse.md)
-* [Wave MR](welcome/wave-mr.md)
+* [Landao Metaverse](start/metaverse-roadmap.md)
+* [Wave MR](start/nft-collection.md)
 
-## About waves
+## Authorization
 
-* [Observer mode](about-waves/observer-mode.md)
-* [Telegram connection](about-waves/telegram-connection.md)
-* [Tonkeeper connection](about-waves/tonkeeper-connection.md)
+* [Observer mode](authorization/observer-mode.md)
+* [Telegram connection](authorization/telegram-connection.md)
+* [Tonkeeper connection](authorization/tonkeeper-connection.md)
 
-## User avatar
+## Avatar
 
-* [Your profile](user-avatar/your-profile.md)
-* [Guest player](user-avatar/guest-player.md)
+* [Your profile](avatar/your-profile.md)
+* [Guest profile](avatar/guest-profile.md)
 
 ## Mixed Reality
 
