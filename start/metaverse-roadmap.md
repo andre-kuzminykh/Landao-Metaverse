@@ -10,7 +10,7 @@
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ## ****[**Be a part of Landao Metaverse**](http://metaverse.landao.studio)****
 
