@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Theory of Happiness
 
 <img src=".gitbook/assets/image.png" alt="" data-size="original">
