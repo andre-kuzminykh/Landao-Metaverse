@@ -1,30 +1,13 @@
 # Table of contents
 
-## Welcome
+## About
 
-* [Theory of Happiness](README.md)
-* [Landao Metaverse](start/metaverse-roadmap.md)
-* [Wave MR](start/nft-collection.md)
+* [Landao Philosophy](README.md)
+* [Landao Studio](about/hiring.md)
+* [Landao Metaverse](about/contacts.md)
 
-## Authorization
+## NFT Collection
 
-* [Observer mode](authorization/observer-mode.md)
-* [Telegram connection](authorization/telegram-connection.md)
-* [Tonkeeper connection](authorization/tonkeeper-connection.md)
-
-## Avatar
-
-* [Your profile](avatar/your-profile.md)
-* [Guest profile](avatar/guest-profile.md)
-
-## Mixed Reality
-
-* [Wave recorder](mixed-reality/wave-recorder.md)
-* [Wave player](mixed-reality/wave-player.md)
-* [Wave reactions](mixed-reality/wave-reactions.md)
-
-## Support
-
-* [Settings](support/settings.md)
-* [FAQ](support/faq.md)
-* [Contact us](support/contact-us.md)
+* [Install Tonkeeper](nft-collection/install-tonkeeper.md)
+* [Buy Toncoin](nft-collection/buy-toncoin.md)
+* [Get NFT](nft-collection/get-nft.md)

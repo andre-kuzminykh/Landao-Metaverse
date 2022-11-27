@@ -1,6 +1,6 @@
-# Theory of Happiness
+# Landao Philosophy
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
 
 Lev Landau was a Nobel laureate in physics in 1962. He published his own course of theoretical physics, in which he described the main scientific theories of the Universe arrangement:
 
@@ -16,4 +16,4 @@ _Work_, _Love_ and _Communication_ with people.
 
 **Communication.** Communications with people took more time for Landau than it was stipulated in his formula. Landau had many friends and the doors of his house were not closed in the evening.&#x20;
 
-His last words in our world were: _"I’ve lived my life not bad"._&#x20;
+His last words in this world were: _"I’ve lived my life not bad"._&#x20;
