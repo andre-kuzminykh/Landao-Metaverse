@@ -4,7 +4,7 @@
 
 * [Theory of Happiness](README.md)
 * [Landao Metaverse](start/metaverse-roadmap.md)
-* [Wave MR](start/nft-collection.md)
+* [About Wave MR](welcome/about-wave-mr.md)
 
 ## Authorization
 
