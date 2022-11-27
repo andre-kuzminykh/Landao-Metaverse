@@ -6,4 +6,4 @@ Our universe consists of elementary particles. Every elementary particle has a q
 
 ### Wave MR is created by waves - short voice stories connected to real space <a href="#wave-mr-is-created-by-waves-short-voice-stories-connected-to-real-space" id="wave-mr-is-created-by-waves-short-voice-stories-connected-to-real-space"></a>
 
-![](../../.gitbook/assets/image.png)\
+![](../.gitbook/assets/image.png)\
