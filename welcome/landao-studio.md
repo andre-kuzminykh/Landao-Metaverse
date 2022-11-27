@@ -4,67 +4,7 @@ description: We create dApps for work, love & communications on TON-blockchain
 
 # Landao Studio
 
-**2023 -** **Wave MR -** Metaverse in Mixed Reality of _waves_ (voice-based messages)
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><strong>2023 -</strong> <strong>Wave MR</strong> Metaverse in Mixed Reality of <em>waves</em> (voice-based messages)</td><td></td><td></td></tr><tr><td></td><td><strong>2024 - Gravity AR</strong> Metaverse in Augmented Reality of <em>gravitons</em> (time-driven objects)</td><td></td><td></td></tr><tr><td></td><td><p><strong>2025 - Field VR</strong></p><p>Metaverse in Virtual Reality of <em>fields</em> (user-simulated worlds)</p></td><td></td><td></td></tr></tbody></table>
 
-**2024 - Gravity AR** - Metaverse in Augmented Reality of _gravitons_ (time-driven objects)
-
-**2025 - Field VR** - Metaverse in Virtual Reality of _fields_ (user-simulated worlds)
-
-
-
-
-
-
-
-**Chief Execution Officer (CEO)**
-
-Andre Kuzminykh - Studio strategy & Key decisions
-
-
-
-****
-
-**Chief Technology Officer (CTO)**
-
-Tony Sapunov - dApp development & Service support
-
-****
-
-****
-
-**Chief Finance Officer (CFO)**
-
-Vadim Nescheret - Invest plan & Finance operations
-
-****
-
-****
-
-**Chief Product Officer (CPO)**
-
-Albert Ryzhenkov - Product vision & Product metrics
-
-****
-
-****
-
-**Chief Operation Officer (COO)**
-
-Timur Gilmutdinov - Business plan & Legal regulations
-
-****
-
-****
-
-**Chief Marketing Officer (CMO)**
-
-Anna Balycheva - Brand strategy & Customer journey&#x20;
-
-
-
-****
-
-**Chief Creative Officer (CCO)**
-
-Anastasia Butenkova - User experience & Customer experience
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p><strong>Chief Execution Officer (CEO)</strong></p><p>Studio strategy &#x26; Key decisions</p></td><td><p><em></em></p><p><em>Andre Kuzminykh</em></p></td></tr><tr><td></td><td><p><strong>Chief Technology Officer (CTO)</strong></p><p> dApp development &#x26; Service support</p></td><td><p></p><p><em>Tony Sapunov</em></p></td></tr><tr><td></td><td><p><strong>Chief Finance Officer (CFO)</strong></p><p>Invest plan &#x26; Finance operations</p></td><td><p></p><p><em>Vadim Nescheret</em></p></td></tr><tr><td></td><td><p><strong>Chief Blockchain Officer (CBO)</strong></p><p>Metaverse DAO &#x26; Crypto regulations</p></td><td><p></p><p><em>Hiring</em></p></td></tr><tr><td></td><td><p><strong>Chief Operation Officer (COO)</strong></p><p>Business plan &#x26; Legal regulations</p></td><td><p></p><p><em>Timur Gilmutdinov</em></p></td></tr><tr><td></td><td><p><strong>Chief Product Officer (CPO)</strong></p><p>Product vision &#x26; Product metrics</p></td><td><p></p><p><em>Albert Ryzhenkov</em> </p></td></tr><tr><td></td><td><p><strong>Chief Marketing Officer (CMO)</strong></p><p>Brand strategy &#x26; Customer journey </p></td><td><p></p><p><em>Anna Balycheva</em> </p></td></tr><tr><td></td><td><p><strong>Chief Creative Officer (CCO)</strong></p><p>User experience &#x26; Customer experience</p></td><td><p></p><p><em>Anastasia Butenkova</em></p></td></tr></tbody></table>
 
