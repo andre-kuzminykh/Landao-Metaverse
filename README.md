@@ -1,4 +1,8 @@
-# Theory of Happiness
+---
+description: Theory of Happiness
+---
+
+# Landao Philosophy
 
 <img src=".gitbook/assets/image (1).png" alt="" data-size="original">
 
