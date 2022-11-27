@@ -1,5 +1,5 @@
 ---
-description: We create dApps for work, love & communications in Extended Reality
+description: We create dApps for work, love & communications on TON-blockchain
 ---
 
 # Landao Studio
