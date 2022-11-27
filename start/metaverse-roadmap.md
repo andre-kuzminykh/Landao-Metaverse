@@ -1,6 +1,6 @@
 # Landao Metaverse
 
-## **Decentralized ventures for making people happy in Metaverse                                   of Extended Reality on TON-blockchain**
+## **Decentralized ventures for making people happy                                   in Extended Reality on TON-blockchain**
 
 **2023 -** **Wave MR -** Metaverse in Mixed Reality of _waves_ (voice-based messages)
 
