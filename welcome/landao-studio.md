@@ -1,15 +1,8 @@
 ---
-description: >-
-  We create dApps for work, love &
-  communications                                                in Mixed,
-  Augmented & Virtual Realities
+description: We create dApps for work, love & communications in Extended Reality
 ---
 
 # Landao Studio
-
-**We create dApps for work, love & communications in Mixed, Augmented & Virtual Realities**
-
-****
 
 **Chief Execution Officer (CEO)**
 
