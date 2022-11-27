@@ -1,7 +1,6 @@
 ---
 description: >-
-  Decentralized ventures for making people
-  happy                                                   in Extended Reality on
+  Decentralized ventures for making people happy in Extended Reality (XR) on
   TON-blockchain
 ---
 
