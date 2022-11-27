@@ -4,6 +4,8 @@ description: We create dApps for work, love & communications on TON-blockchain
 
 # Landao Studio
 
+****
+
 **Chief Execution Officer (CEO)**
 
 Andre Kuzminykh - Studio strategy & Key decisions
