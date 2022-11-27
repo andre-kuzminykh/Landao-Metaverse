@@ -8,7 +8,7 @@ description: Decentralized ventures for making people happy in Extended Reality 
 
 [**Be a part of Landao Metaverse**](http://metaverse.landao.studio)****
 
-Buy 1 of 1000 NFT of AI-Generated Galaxies for 100 $TON
+Buy 1 of 1000 NFT of AI-Generated Galaxies
 
 *   **Metaverse membership**
 
