@@ -1,6 +1,6 @@
 # Landao Philosophy
 
-<img src=".gitbook/assets/image.png" alt="" data-size="original">
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
 
 Lev Landau was a Nobel laureate in physics in 1962. He published his own course of theoretical physics, in which he described the main scientific theories of the Universe arrangement:
 
