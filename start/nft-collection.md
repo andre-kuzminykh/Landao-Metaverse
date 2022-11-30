@@ -14,7 +14,7 @@ Our universe consists of elementary particles. Every elementary particle has ind
 
 
 
-**Download Wave MR for Telegram users**
+**Download Wave MR**
 
 * Web
 * Android
