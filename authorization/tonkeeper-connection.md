@@ -1,5 +1,5 @@
 ---
-description: Connect your Tonkeeper wallet to earn crypto
+description: Connect your Tonkeeper wallet to use crypto
 ---
 
 # Tonkeeper connection

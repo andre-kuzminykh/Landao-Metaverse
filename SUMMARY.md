@@ -13,10 +13,9 @@
   * [Tonkeeper connection](authorization/tonkeeper-connection.md)
   * [Observer mode](authorization/observer-mode.md)
 * [User avatar](wave-mr/user-avatar/README.md)
-  * [Profile registration](wave-mr/user-avatar/profile-registration.md)
-  * [Profile editing](wave-mr/user-avatar/profile-editing.md)
+  * [Register profile](wave-mr/user-avatar/register-profile.md)
+  * [Edit profile](wave-mr/user-avatar/edit-profile.md)
   * [Guest profile](wave-mr/user-avatar/guest-profile.md)
-  * [Account settings](wave-mr/user-avatar/account-settings.md)
 * [Mixed Reality](wave-mr/mixed-reality/README.md)
   * [Wave recorder](mixed-reality/wave-recorder.md)
   * [Wave player](mixed-reality/wave-player.md)
@@ -24,5 +23,6 @@
 
 ## Support
 
+* [Settings](support/settings.md)
 * [FAQ](support/faq.md)
 * [Contact us](support/contact-us.md)

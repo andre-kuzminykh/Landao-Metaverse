@@ -1,5 +1,5 @@
 ---
-description: View-only mode for playing waves
+description: View-only mode for discovering waves
 ---
 
 # Observer mode
