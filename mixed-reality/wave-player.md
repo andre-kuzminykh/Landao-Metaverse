@@ -1,5 +1,5 @@
 ---
-description: Play waves by clicking on them
+description: Click on waves to play them
 ---
 
 # Wave player
