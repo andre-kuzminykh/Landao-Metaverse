@@ -1,5 +1,5 @@
 ---
-description: Decentralized app for Web, Android & iOS on TON-blockchain
+description: Web, Android & iOS decentralized app on TON-blockchain
 ---
 
 # Getting started
