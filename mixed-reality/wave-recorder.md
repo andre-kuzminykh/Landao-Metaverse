@@ -1,5 +1,5 @@
 ---
-description: Record your own wave by clicking on record button
+description: Click on record button to record your own wave
 ---
 
 # Wave recorder
