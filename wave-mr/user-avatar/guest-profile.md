@@ -1,5 +1,5 @@
 ---
-description: View of another person's profile
+description: View of your guest profile
 ---
 
 # Guest profile
