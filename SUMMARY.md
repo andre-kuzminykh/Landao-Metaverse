@@ -2,7 +2,7 @@
 
 ## Welcome
 
-* [Landao Philosophy](README.md)
+* [Landao Theory](README.md)
 * [Landao Metaverse](start/metaverse-roadmap.md)
 * [Landao Studio](welcome/landao-studio.md)
 

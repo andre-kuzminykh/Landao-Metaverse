@@ -10,12 +10,12 @@ description: Decentralized ventures for making people happy in Extended Reality 
 
 Buy 1 of 1000 NFT of AI-Generated Galaxies
 
-*   **Metaverse membership**
+*   **Landao membership**
 
     Create happy waves & earn $LAN token in Wave MR
 *   **Galaxy status**
 
-    Get a galaxy pinned on your profile avatar
+    Get a galaxy pinned to your profile avatar
 *   **Decision making**
 
-    Participate in Landao Metaverse voting in Telegram bot
+    Participate in DAO voting in Telegram bot
