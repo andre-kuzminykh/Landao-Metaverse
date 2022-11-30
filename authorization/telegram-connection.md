@@ -1,5 +1,5 @@
 ---
-description: Connect your Telegram account to chat with others
+description: Connect your Telegram account to chat with other people
 ---
 
 # Telegram connection
