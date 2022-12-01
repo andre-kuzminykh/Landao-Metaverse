@@ -16,6 +16,6 @@ Wave MR is created by waves - short voice stories connected to real space.
 
 **Download Wave MR**
 
-* Web
-* Android
-* iOS
+* [Web](../welcome/landao-studio.md)
+* [Android](../welcome/landao-studio.md)
+* [iOS](../welcome/landao-studio.md)

@@ -4,4 +4,4 @@ description: View-only mode for discovering waves
 
 # Observer mode
 
-In progress / Prototype
+* Click _**Continue without Telegram** & **Continue without Tonkeeper** to discover waves             without any authorization_

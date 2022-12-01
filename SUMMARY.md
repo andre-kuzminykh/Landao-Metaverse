@@ -9,13 +9,13 @@
 ## Wave MR
 
 * [Getting started](start/nft-collection.md)
+  * [Observer mode](authorization/observer-mode.md)
   * [Telegram connection](authorization/telegram-connection.md)
   * [Tonkeeper connection](authorization/tonkeeper-connection.md)
-  * [Observer mode](authorization/observer-mode.md)
-* [User avatar](wave-mr/user-avatar/README.md)
-  * [Register profile](wave-mr/user-avatar/register-profile.md)
-  * [Edit profile](wave-mr/user-avatar/edit-profile.md)
-  * [Guest profile](wave-mr/user-avatar/guest-profile.md)
+* [Your avatar](wave-mr/your-avatar/README.md)
+  * [Register profile](wave-mr/your-avatar/register-profile.md)
+  * [Edit profile](wave-mr/your-avatar/edit-profile.md)
+  * [Guest profile](wave-mr/your-avatar/guest-profile.md)
 * [Mixed Reality](wave-mr/mixed-reality/README.md)
   * [Wave recorder](mixed-reality/wave-recorder.md)
   * [Wave player](mixed-reality/wave-player.md)
