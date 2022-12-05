@@ -1,5 +1,5 @@
 ---
-description: We create web3 cdApps for work, love & communications on TON-blockchain
+description: We create web3 dApps for work, love & communications on TON-blockchain
 ---
 
 # Landao Studio
@@ -8,7 +8,7 @@ description: We create web3 cdApps for work, love & communications on TON-blockc
 
 ## Studio Vision
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><strong></strong><img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407570 (1).jpg" alt="" data-size="line"> <strong>2023 -</strong> <strong>Wave MR</strong> Metaverse in Mixed Reality of <em>waves</em> (voice-based messages)</td><td></td><td></td></tr><tr><td></td><td><strong></strong><img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407569.jpg" alt="" data-size="line"> <strong>2024 - Gravity AR</strong> Metaverse in Augmented Reality of <em>gravitons</em> (time-driven objects)</td><td></td><td></td></tr><tr><td></td><td><p><strong></strong><img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407568.jpg" alt="" data-size="line"><strong>2025 - Field VR</strong></p><p>Metaverse in Virtual Reality of <em>fields</em> (user-simulated worlds)</p></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><strong></strong><img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407570 (1).jpg" alt="" data-size="line"> <strong>2023 -</strong> <strong>Wave MR</strong> Metaverse in Mixed Reality of <em>waves</em> (voice-based messages)</td><td></td><td></td></tr><tr><td></td><td><strong></strong><img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407569.jpg" alt="" data-size="line"> <strong>2024 - Gravity AR</strong> Metaverse in Augmented Reality of <em>gravitons</em> (time-driven avatars)</td><td></td><td></td></tr><tr><td></td><td><p><strong></strong><img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407568.jpg" alt="" data-size="line"><strong>2025 - Field VR</strong></p><p>Metaverse in Virtual Reality of <em>fields</em> (user-simulated worlds)</p></td><td></td><td></td></tr></tbody></table>
 
 ## <img src="../.gitbook/assets/telegram-cloud-document-2-5197520528264407570 (1).jpg" alt="" data-size="line"> Wave MR Roadmap
 

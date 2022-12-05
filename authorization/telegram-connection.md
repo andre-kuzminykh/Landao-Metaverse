@@ -4,7 +4,7 @@ description: Connect your Telegram account to chat with other people
 
 # Telegram connection
 
-<img src="../.gitbook/assets/telegram-cloud-document-2-5201971110815475125.jpg" alt="" data-size="original">
-
-* Click _**Connect Telegram**_ to be authorized via Landao Bot&#x20;
 * Click _**Continue without Telegram**_ to continue anonymously via Tonkeeper or view-only mode
+* Click _**Connect Telegram**_ to be authorized via Landao Bot&#x20;
+
+<img src="../.gitbook/assets/telegram-cloud-document-2-5201971110815475125.jpg" alt="" data-size="original">
