@@ -8,7 +8,7 @@ description: Landau's theory of Happiness
 
 [Welcome to Landao Metaverse](http://landao.studio)
 
-Lev Landau was a Nobel laureate in physics in 1962. He published his own course of theoretical physics, in which he described the main scientific theories of the Universe structure:
+Lev Landau is a Nobel laureate in physics in 1962. He published his own course of theoretical physics, in which he described the main scientific theories of the Universe structure:
 
 _Quantum theory_, _Relativity theory_ and _Field theory_.
 
