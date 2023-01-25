@@ -2,7 +2,7 @@
 
 ## Welcome
 
-* [Landao Theory](README.md)
+* [Theory of Happiness](README.md)
 * [Landao Metaverse](start/metaverse-roadmap.md)
 * [Landao Studio](welcome/landao-studio.md)
 
